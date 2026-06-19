@@ -1,6 +1,4 @@
 ```markdown
-# VastraStudio
-
 ## Local Development Setup
 
 To run VastraStudio on your own computer, follow these steps:
